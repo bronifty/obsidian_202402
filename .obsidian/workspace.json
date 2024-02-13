@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vike/brillout-react-stream/res.flush.md",
+                "file": "vike/telefunc/remote-functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vike/brillout-react-stream/res.flush.md",
+                "file": "vike/telefunc/remote-functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vike/brillout-react-stream/res.flush.md",
+                "file": "vike/telefunc/remote-functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vike/brillout-react-stream/res.flush.md"
+                "file": "vike/telefunc/remote-functions.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "9a3fd68bfaea22a0",
   "lastOpenFiles": [
-    "golang/go.dev.md",
     "vike/brillout-react-stream/res.flush.md",
+    "vike/telefunc/remote-functions.md",
+    "vike/telefunc",
+    "golang/go.dev.md",
     "vike/brillout-react-stream",
     "vike",
     "Welcome.md",
