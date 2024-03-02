@@ -27,9 +27,10 @@
 - [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)
 
 ```bash
-sudo snap install auto-cpufreq
+sudo apt update && sudo apt install curl git htop auto-cpufreq
 sudo auto-cpufreq --help
 sudo auto-cpufreq --install
+sudo auto-cpufreq --stats
 sudo systemctl status auto-cpufreq
 
 ```
