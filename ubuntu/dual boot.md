@@ -3,7 +3,7 @@
 1. create MS-DOS (FAT) partition on macbook with 62GB space
 2. download ubuntu desktop LTS
 3. download unetbootin
-4. format usb drive to FAT32
+4. format usb drive to FAT32 (exFAT works fine)
 5. use unetbootin to create bootable usb drive
 6. restart macbook and press option key
 7. select EFI boot
