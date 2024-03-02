@@ -3,7 +3,7 @@
 ```bash
 
 gnome-system-monitor
-nautilus ~
+nautilus /home/bro/
 
 
 ```
