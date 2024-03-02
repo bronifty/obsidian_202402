@@ -25,6 +25,11 @@
 
 ## Note: to uninstall, erase (to reformat) the partition as Mac OS Extended (Journaled) and then remove the partition
 
+```bash
+diskutil list # identify ubuntu efi partition
+diskutil eraseVolume JHFS+ empty /dev/disk0s3
+```
+
 - https://unetbootin.github.io/
 - ubuntu.com (desktop LTS)
 - [dual boot ubuntu on macbook; auto-cpufreq](https://www.youtube.com/watch?v=KIgxEEzT9ek&t=835s)
