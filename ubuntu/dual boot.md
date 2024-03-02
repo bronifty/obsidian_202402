@@ -21,6 +21,10 @@
 9. restart macbook
 10. press option key
 
+---
+
+## Note: to uninstall, erase (to reformat) the partition as Mac OS Extended (Journaled) and then remove the partition
+
 - https://unetbootin.github.io/
 - ubuntu.com (desktop LTS)
 - [dual boot ubuntu on macbook; auto-cpufreq](https://www.youtube.com/watch?v=KIgxEEzT9ek&t=835s)
