@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "golang/go.dev.md",
+                "file": "ubuntu/dual boot.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cb2bdf76ebe22dcc",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "golang/go.dev.md",
+                "file": "ubuntu/dual boot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "golang/go.dev.md",
+                "file": "ubuntu/dual boot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "golang/go.dev.md"
+                "file": "ubuntu/dual boot.md"
               }
             }
           }
@@ -149,8 +148,10 @@
   },
   "active": "9a3fd68bfaea22a0",
   "lastOpenFiles": [
-    "Welcome.md",
     "golang/go.dev.md",
+    "ubuntu/dual boot.md",
+    "ubuntu",
+    "Welcome.md",
     "golang"
   ]
 }
