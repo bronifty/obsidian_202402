@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ubuntu/dual boot.md",
+                "file": "git/merge conflicts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ubuntu/dual boot.md",
+                "file": "git/merge conflicts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ubuntu/dual boot.md",
+                "file": "git/merge conflicts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ubuntu/dual boot.md"
+                "file": "git/merge conflicts.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "9a3fd68bfaea22a0",
   "lastOpenFiles": [
-    "git/merge conflicts.md",
     "ubuntu/dual boot.md",
+    "git/merge conflicts.md",
     "git",
     "vike/telefunc/remote-functions.md",
     "vike/brillout-react-stream/res.flush.md",
