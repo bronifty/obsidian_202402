@@ -3,7 +3,9 @@
 ```bash
 
 gnome-system-monitor
-nautilus /home/bro/
+nautilus /home/bro/codes/
 
 
 ```
+
+- ctrl + alt + t : open terminal

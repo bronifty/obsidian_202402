@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/merge conflicts.md",
+                "file": "ubuntu/settings.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/merge conflicts.md",
+                "file": "ubuntu/settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/merge conflicts.md",
+                "file": "ubuntu/settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/merge conflicts.md"
+                "file": "ubuntu/settings.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   "lastOpenFiles": [
     "ubuntu/dual boot.md",
     "git/merge conflicts.md",
+    "ubuntu/settings.md",
     "git",
     "vike/telefunc/remote-functions.md",
     "vike/brillout-react-stream/res.flush.md",
