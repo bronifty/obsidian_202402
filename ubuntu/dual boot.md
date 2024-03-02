@@ -24,8 +24,10 @@
 - https://unetbootin.github.io/
 - ubuntu.com (desktop LTS)
 - [dual boot ubuntu on macbook; auto-cpufreq](https://www.youtube.com/watch?v=KIgxEEzT9ek&t=835s)
+- [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)
 
 ```bash
+sudo snap install auto-cpufreq
 sudo auto-cpufreq --help
 sudo auto-cpufreq --install
 sudo systemctl status auto-cpufreq
