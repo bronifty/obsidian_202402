@@ -36,10 +36,8 @@ diskutil eraseVolume JHFS+ empty /dev/disk0s3
 - [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)
 
 ```bash
-sudo apt update && sudo apt install curl git htop auto-cpufreq
-sudo auto-cpufreq --help
+sudo apt update && sudo apt install curl git 
+sudo snap install auto-cpufreq
 sudo auto-cpufreq --install
 sudo auto-cpufreq --stats
-sudo systemctl status auto-cpufreq
-
 ```
