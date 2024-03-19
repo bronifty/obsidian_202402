@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterns-that-matter/Fundamentals of Software Architecture Chapter 3 - Modularity.md",
+                "file": "patterns-that-matter/Fundamentals of Software Architecture Chapter 4  - Architecture Characteristics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patterns-that-matter/Fundamentals of Software Architecture Chapter 3 - Modularity.md",
+                "file": "patterns-that-matter/Fundamentals of Software Architecture Chapter 4  - Architecture Characteristics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patterns-that-matter/Fundamentals of Software Architecture Chapter 3 - Modularity.md",
+                "file": "patterns-that-matter/Fundamentals of Software Architecture Chapter 4  - Architecture Characteristics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patterns-that-matter/Fundamentals of Software Architecture Chapter 3 - Modularity.md"
+                "file": "patterns-that-matter/Fundamentals of Software Architecture Chapter 4  - Architecture Characteristics.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "9a3fd68bfaea22a0",
   "lastOpenFiles": [
     "patterns-that-matter/README.md",
+    "patterns-that-matter/Fundamentals of Software Architecture Chapter 4  - Architecture Characteristics.md",
     "patterns-that-matter/Fundamentals of Software Architecture Chapter 3 - Modularity.md",
     "ubuntu/settings.md",
     "ubuntu/dual boot.md",
