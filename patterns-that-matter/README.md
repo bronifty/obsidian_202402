@@ -51,4 +51,7 @@ there are four measurements of architecture:
 Dynamic Kanaisance
 - execution
 	- order of execution (eg code that sends an email needs to have subject line set first)
-	- 
+- timing
+	- timing of execution (eg race condition between 2 competing threads)
+- values
+	- several values relate and must change together (eg distributed systems transactions; multiple databases must be updated together)
