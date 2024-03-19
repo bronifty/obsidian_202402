@@ -35,8 +35,8 @@ there are four measurements of architecture:
 > - how things must be changed together (coupling)
 > - static v dynamic
 
-### Static Kanaisance
-- range of kanaisance (from best to worst coupling)
+### Static Coupling
+- range of coupling (from best to worst coupling)
 - name
 	- update all variables/methods with the same name - easy to change
 - type
@@ -48,10 +48,12 @@ there are four measurements of architecture:
 - algorithm
 	- security hash that must run on both server and client to produce identical results to authenticate the caller
 
-Dynamic Kanaisance
+Dynamic Coupling
 - execution
 	- order of execution (eg code that sends an email needs to have subject line set first)
 - timing
 	- timing of execution (eg race condition between 2 competing threads)
 - values
-	- several values relate and must change together (eg distributed systems transactions; multiple databases must be updated together)
+	- several values relate and must change together (eg distributed systems transactions; multiple databases must be updated together or not at all)
+- identity
+	- 
