@@ -80,5 +80,8 @@ In summary, using a messaging service with the publish/subscribe model provides 
 
 -----
 
+Tips for Coupling: Keep things that change together in the same module(s)
+
+
 
  
