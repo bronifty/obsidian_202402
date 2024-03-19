@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterns-that-matter/README.md",
+                "file": "patterns-that-matter/Fundamentals of Software Architecture Chapter 3 - Modularity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patterns-that-matter/README.md",
+                "file": "patterns-that-matter/Fundamentals of Software Architecture Chapter 3 - Modularity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patterns-that-matter/README.md",
+                "file": "patterns-that-matter/Fundamentals of Software Architecture Chapter 3 - Modularity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patterns-that-matter/README.md"
+                "file": "patterns-that-matter/Fundamentals of Software Architecture Chapter 3 - Modularity.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "9a3fd68bfaea22a0",
   "lastOpenFiles": [
-    "packages-that-matter/README.md",
     "patterns-that-matter/README.md",
-    "packages-that-matter",
+    "patterns-that-matter/Fundamentals of Software Architecture Chapter 3 - Modularity.md",
     "ubuntu/settings.md",
-    "patterns-that-matter",
     "ubuntu/dual boot.md",
+    "packages-that-matter/README.md",
+    "packages-that-matter",
+    "patterns-that-matter",
     "git/merge conflicts.md",
     "git",
     "vike/telefunc/remote-functions.md",
