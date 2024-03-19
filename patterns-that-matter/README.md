@@ -23,3 +23,32 @@ there are four measurements of architecture:
 -  instability is a measure of outward coupling 
 4 distance from the main sequence 
 - distance from the main sequence is an X Y axis measuring abstraction and coupling with abstraction on the Y axis and coupling on the X axis; in the top right hand corner, you have pure abstraction plus coupling in the bottom left-hand corner you have zero abstraction zero coupling
+
+
+> Cyclomatic Complexity 
+> - cycle refers to graph of control flow in a program
+	- more paths through the code base means harder to understand
+	- essential v accidental
+	- governance and fitness functions (to test the above)
+
+> Kanaisance
+> - how things must be changed together (coupling)
+> - static v dynamic
+
+### Static Kanaisance
+- range of kanaisance (from best to worst coupling)
+- name
+	- update all variables/methods with the same name - easy to change
+- type
+	- update all types of methods/variables
+- meaning
+	- hardcoded numbers rather than constants (eg true is 1 and false is 0)
+- position
+	- function arg position
+- algorithm
+	- security hash that must run on both server and client to produce identical results to authenticate the caller
+
+Dynamic Kanaisance
+- execution
+	- order of execution (eg code that sends an email needs to have subject line set first)
+	- 
