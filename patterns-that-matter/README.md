@@ -13,3 +13,13 @@
 	5 temporal: modules are related based on timing dependencies (eg docker compose web app depends on db)
 	6 logical: modules data are related logically but not functionally (eg util package for operating on a data type; they all logically work on the same thing, but are otherwise unrelated)
 	7 coincidental: parts in module only relate in that they exist in the same file
+
+there are four measurements of architecture: 
+1 LCOM 
+- LCOM measures the extent to which methods of a class share instance variables
+2 abstractness
+- abstractness is a ratio of abstract methods to the total number of abstractions + implementations 
+3 instability
+-  instability is a measure of outward coupling 
+4 distance from the main sequence 
+- distance from the main sequence is an X Y axis measuring abstraction and coupling with abstraction on the Y axis and coupling on the X axis; in the top right hand corner, you have pure abstraction plus coupling in the bottom left-hand corner you have zero abstraction zero coupling
